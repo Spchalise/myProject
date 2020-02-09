@@ -1,0 +1,51 @@
+                        "legs" : [
+                                {
+                                        "direction" : "EB",
+                                        "usageRT" : "exclusive",
+                                        "usageTH" : "exclusive",
+                                        "usageLT" : "exclusive",
+                                        "greenTime" : 45,
+                                        "parkingRight" : false,
+                                        "parkingLeft" : false,
+                                        "pedActivityLevel" : "low",
+                                        "rdbtBypassConfig" : "none",
+                                        "rdbtConflictingPeds" : 0,
+                                        "approachGrade" : 0,
+                                        "rdbtNumEntryLanes" : 1,
+                                        "rdbtNumCirculatingLanes" : 1,
+                                        "approachDelay" : [
+                                                13.697193145751953,
+                                                15.231978416442871,
+                                                18.768962860107422,
+                                                14.412092208862305
+                                        ],
+                                        "approachLOS" : [
+                                                "B",
+                                                "B",
+                                                "B",
+                                                "B"
+                                        ],
+                                        "movements" : {
+                                                "LT" : {
+                                                        "numLanes" : 1,
+                                                        "volume" : 250,
+                                                        "pctHV" : 0.02,
+                                                        "progressionQuality" : "random"
+                                                },
+                                                "TH" : {
+                                                        "numLanes" : 1,
+                                                        "volume" : 250,
+                                                        "pctHV" : 0.02,
+                                                        "progressionQuality" : "good"
+                                                },
+                                                "RT" : {
+                                                        "numLanes" : 1,
+                                                        "volume" : 250,
+                                                        "pctHV" : 0.02,
+                                                        "progressionQuality" : "random"
+                                                }
+                                        },
+                                        "isWorkZoneActive" : false,
+                                        "workZoneSatFlow" : 1900,
+                                        "D2_WZ_NumberofLanesClosed" : 0
+                                },
